@@ -1,2 +1,5 @@
-# Recursion-Assignment
-TOP Project Recursion (Merge Sort)
+# Recursion
+
+The Odin Project #13
+
+Javascript recursion practice.
