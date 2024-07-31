@@ -2,4 +2,4 @@
 
 The Odin Project #13
 
-Javascript recursion practice.
+Javascript recursion practice. Implements mergesort.
